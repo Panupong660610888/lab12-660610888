@@ -21,7 +21,7 @@ export default function TodolistPage() {
       id: "3",
       title: "Deploy app",
       description: "Push project to GitHub Pages",
-      isDone: false,
+      isDone: true,
     },
   ];
   return (
